@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @adarshmulik
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning Data Science
+- 📫 Reach me on adarshhmulik@gmail.com
